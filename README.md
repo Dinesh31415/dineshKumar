@@ -1,2 +1,2 @@
-# dineshKumar
+# DineshKumar
 Portfolio
